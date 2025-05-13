@@ -2,22 +2,22 @@
 Simulador de Procesos.
 
 
-#Descripcion del Proyecto 
+# Descripcion del Proyecto 
 Es un simulador interactivo que reproduce el comportamiento básico de un sistema operativo mediante una interfaz en consola. Permite gestionar procesos, asignar y liberar recursos limitados, y controlar la ejecución según diferentes algoritmos de planificación: FCFS, SJF, Round Robin y planificación por prioridad.
 
 
-#Informacion del curso
+# Informacion del curso
 
-#Materia
+# Materia
 Sistemas Operativos.
 
-#Semestre
+# Semestre
 6 semestre del grupo I del año 2025.
 
 
-#Profesor
+# Profesor
 Dante Adolfo Muñoz Quintero.
 
 
-#Integrantes
+# Integrantes
 Guzman Garcia Lizbeth Neri 
